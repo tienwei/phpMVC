@@ -1,0 +1,143 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 7, 2014, 8:05:16 AM
+    Author     : Tien-wei Lin
+*/
+
+body {
+    background: silver;
+}
+
+#header {
+    padding:20px;
+    background: #FFFECD;
+    text-align: center;
+}
+
+#header p {
+    color: #171840;
+    font-size:24px;
+}
+
+#appTitle {
+    color:#611526;
+}
+
+#headerLink {
+    text-decoration: none;
+}
+
+#content {
+    padding:20px;
+    height:100%;
+    background: white;
+    font-size:20px;
+    text-align: center;
+}
+
+table {
+    margin:0 auto;
+}
+
+input {
+    font-size:18px;
+}
+
+
+#footer {
+    padding: 20px;
+    background: #E24242;
+}
+
+#main, .userTable {
+    font-size: 20px;
+    text-align: left;
+}
+
+// dataTable
+#customerTB {
+    background: #2D7EF0;
+}
+.left{
+    text-align: left !important;
+}
+
+.headfield {
+    font-weight: bold;
+}
+
+#navigation {
+    float: right;
+    clear:both;
+}
+
+.centreSen {
+    text-align: center;
+}
+
+.highlighted {
+    color:#0729AA;
+}
+
+#theWinningFellows {
+    color:#B7DCEA;
+}
+
+#jobTable {
+    width:600px;
+}
+
+.loading-text {
+    color: #00C6AD;
+}
+
+.attention {
+    color: red;
+}
+
+.address {
+    width:380px;
+}
+
+table {
+    font-size:16px;
+}
+
+tr.group,
+tr.group:hover {
+    background-color: #ddd !important;
+}
+
+td.highlight {
+    background-color: whitesmoke !important;
+}
+
+.inDiv {
+    margin-left:40%; 
+    text-align: left;
+}
+
+.error {
+    color: red;
+}
+
+.message {
+    color: green;
+}
+
+.customerInfoTable, #jobDT  {
+    text-align: left;
+}
+
+input[type="text"] {
+     width: 100%; 
+     box-sizing: border-box;
+     -webkit-box-sizing:border-box;
+     -moz-box-sizing: border-box;
+}
+
+
